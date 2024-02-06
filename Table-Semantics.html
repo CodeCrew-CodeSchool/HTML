@@ -6,6 +6,27 @@
     <title>Document</title>
 </head>
 <body>
+    <!-- optional styling.
+    tables by default don't show the border outline
+    add. 
+    apply the border style below to either:
+A) table
+B) table, td
+C) table, th
+D) table, td, th
+see what you like
+change up the style itself by making the border thicker or thinner
+solid can be changed to dotted, dashed, inset 
+color can be any color
+
+border style docs - https://developer.mozilla.org/en-US/docs/Web/CSS/border-style
+
+-->
+    <!-- <style>
+        table, td {
+            border: 3px solid black;
+        }
+    </style> -->
     <!-- Basic Table -->
     <table>
         <tr>
@@ -24,9 +45,11 @@
             <td>Memphis</td>
         </tr>
     </table>
-
+    <br/>
+    <br/>
+    <br/>
     <!-- Semantic Tables -->
-    <!-- Column -->
+    <!-- Column scope header-->
     <table>
         <thead>
         <tr>
@@ -51,7 +74,7 @@
     <br/>
     <br/>
     <br/>
-    <!-- Row -->
+    <!-- Row scope headers-->
     <table>
         <thead>
         <tr>
