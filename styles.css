@@ -1,0 +1,4 @@
+aside {
+    float: none;
+    /* example of specificity. All asides shouldn't float. */
+}
