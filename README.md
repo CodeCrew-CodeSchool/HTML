@@ -10,3 +10,6 @@
 
 - styles.css
   Example of CSS style specificity compared to style element and inline CSS
+
+- CSS-stuff.html
+  Example of font choices and how to use the font-family style to select a font and backups for your page. Additional style practice will be added here
