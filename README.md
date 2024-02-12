@@ -13,3 +13,27 @@
 
 - CSS-stuff.html
   Example of font choices and how to use the font-family style to select a font and backups for your page. Additional style practice will be added here
+
+## Wednesday Files
+
+- 
+
+## Thursday files
+
+- New Website Practice - See [DJ's Repo from Class](https://github.com/mrjones91/HTML-Forms) and create your own
+  Header
+  Main
+  Sidebar
+  Footer
+  ACP
+  Github Pages
+
+- Subjects covered in demo and lab
+  form Element
+  input Element
+  submit button
+  email api - https://www.w3docs.com/snippets/html/how-to-create-mailto-forms.html
+
+## Monday Files
+
+- HTML Multifile links
