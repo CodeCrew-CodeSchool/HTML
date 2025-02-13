@@ -1,6 +1,6 @@
 # Intro to HTML Week Classfiles
 ##### [CSS-Intro](https://github.com/CodeCrew-CodeSchool/css-intro)
-##### [Javascript-Intro)(https://github.com/CodeCrew-CodeSchool/javascript-intro)
+##### [Javascript-Intro](https://github.com/CodeCrew-CodeSchool/javascript-intro)
 
 ## Tuesday Files
 - Table-Semantics.html
